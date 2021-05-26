@@ -1,16 +1,28 @@
 # day2
-
-A new Flutter application.
+Day 2 of flutter UI.
 
 ## Getting Started
+This top 5 beautiful spots in world to visit UI included animations.
 
-This project is a starting point for a Flutter application.
+## Components included:
+=> Beautiful slide views of top 5 best places
 
-A few resources to get you started if this is your first Flutter project:
+=> blueprints of all the places, description and rating where handled dynamically. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## New concepts learnt
+=> page view - Allows to slide between pages.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+=> animation(show up animation package) - Allows to use animations with dustom classes.Very easy to use.
+In this project i have used ease in animation.
+
+=> Different themedata (font theme ) is used.
+
+=> Linear gradient was also used.
+
+##  PROJECT VIDEO
+
+https://user-images.githubusercontent.com/77114963/119737035-49f68380-be9c-11eb-9f63-0adbdbc2bcf1.mp4
+
+
+## Reference Design
+https://user-images.githubusercontent.com/77114963/119737163-76120480-be9c-11eb-8e1c-16fb8a4ac0d4.PNG

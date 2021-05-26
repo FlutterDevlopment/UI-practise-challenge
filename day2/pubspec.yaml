@@ -1,0 +1,33 @@
+name: day2
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  show_up_animation: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Ubuntu-bold
+      fonts:
+        - asset: fonts/Ubuntu-Bold.ttf
+    - family: Ubuntu-Medium
+      fonts:
+        - asset: fonts/Ubuntu-Medium.ttf
+    - family: Ubuntu-italic
+      fonts:
+        - asset: fonts/Ubuntu-Italic.ttf
+    - family: Ubuntu-regular
+      fonts:
+        - asset: fonts/Ubuntu-Regular.ttf
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
